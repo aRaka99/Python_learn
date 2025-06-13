@@ -15,3 +15,6 @@ for index, mark in enumerate(marks):
     if (index==2):
         print(f"our marks is {mark}")
     print(index,mark)
+
+# enumerate function is used for access any itreable data structure (list, string tupple)
+# first value is index and second value is value itself
